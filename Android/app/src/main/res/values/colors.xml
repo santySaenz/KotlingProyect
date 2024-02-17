@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="background_component">#1D1E33</color>
+    <color name="background_component_selected">#FF111328</color>
+    <color name="background_app">#0E0B20</color>
+    <color name="background_button">#EB1555</color>
+    <color name="title_text">#FF8D8E98</color>
+    <color name="background_fab">#FF6200EE</color>
+    <color name="peso_bajo">#FFEB3B</color>
+    <color name="peso_normal">#4CAF50</color>
+    <color name="sobrepeso">#FF5722</color>
+    <color name="obesidad">#FF1100</color>
+
+    <!--BoardgamesApp-->
+    <color name="purple_200">#FFBB86FC</color>
+    <color name="purple_500">#FF6200EE</color>
+    <color name="purple_700">#FF3700B3</color>
+    <color name="teal_200">#FF03DAC5</color>
+    <color name="teal_700">#FF018786</color>
+
+    <color name="bgapp_background_card">#FF081A4A</color>
+    <color name="bgapp_background_disabled">#04335C</color>
+    <color name="bgapp_background_app">#FF2D4993</color>
+    <color name="bgapp_subtitle_text">#959595</color>
+    <color name="bgapp_accent">#E91E63</color>
+
+    <color name="bgapp_deckbuilding_category">#FF9800</color>
+    <color name="bgapp_euro_category">#00BCD4</color>
+    <color name="bgapp_lcg_category">#4CAF50</color>
+    <color name="bgapp_cooperative_category">#D016F1</color>
+    <color name="bgapp_legacy_category">#EDF351</color>
+
+
+    <!--Ejercicio PaletaColores-->
+    <color name="PC_amarillo1">#33EDF351</color>
+    <color name="PC_amarillo2">#66EDF351</color>
+    <color name="PC_amarillo50">#80EDF351</color>
+    <color name="PC_amarillo3">#99EDF351</color>
+    <color name="PC_amarillo4">#CCEDF351</color>
+    <color name="PC_amarillo5">#EDF351</color>
+    <color name="PC_verde1">#3328F305</color>
+    <color name="PC_verde2">#6628F305</color>
+    <color name="PC_verde50">#8028F305</color>
+    <color name="PC_verde3">#9928F305</color>
+    <color name="PC_verde4">#CC28F305</color>
+    <color name="PC_verde5">#28F305</color>
+    <color name="PC_rojo1">#33ED0520</color>
+    <color name="PC_rojo2">#66ED0520</color>
+    <color name="PC_rojo50">#80ED0520</color>
+    <color name="PC_rojo3">#99ED0520</color>
+    <color name="PC_rojo4">#CCED0520</color>
+    <color name="PC_rojo5">#ED0520</color>
+    <color name="PC_azul1">#330649F3</color>
+    <color name="PC_azul2">#660649F3</color>
+    <color name="PC_azul50">#800649F3</color>
+    <color name="PC_azul3">#990649F3</color>
+    <color name="PC_azul4">#CC0649F3</color>
+    <color name="PC_azul5">#0649F3</color>
+    <color name="PC_morado1">#339A11EF</color>
+    <color name="PC_morado2">#669A11EF</color>
+    <color name="PC_morado50">#809A11EF</color>
+    <color name="PC_morado3">#999A11EF</color>
+    <color name="PC_morado4">#CC9A11EF</color>
+    <color name="PC_morado5">#9A11EF</color>
+    <color name="PC_naranja1">#33F18510</color>
+    <color name="PC_naranja2">#66F18510</color>
+    <color name="PC_naranja50">#80F18510</color>
+    <color name="PC_naranja3">#99F18510</color>
+    <color name="PC_naranja4">#CCF18510</color>
+    <color name="PC_naranja5">#F18510</color>
+    <color name="PC_cian1">#3332EDE8</color>
+    <color name="PC_cian2">#6632EDE8</color>
+    <color name="PC_cian50">#8032EDE8</color>
+    <color name="PC_cian3">#9932EDE8</color>
+    <color name="PC_cian4">#CC32EDE8</color>
+    <color name="PC_cian5">#32EDE8</color>
+    <color name="PC_rosa1">#33E368EC</color>
+    <color name="PC_rosa2">#66E368EC</color>
+    <color name="PC_rosa50">#80E368EC</color>
+    <color name="PC_rosa3">#99E368EC</color>
+    <color name="PC_rosa4">#CCE368EC</color>
+    <color name="PC_rosa5">#E368EC</color>
+    <color name="PC_blanco1">#33F8F8F8</color>
+    <color name="PC_blanco2">#66F8F8F8</color>
+    <color name="PC_blanco50">#80F8F8F8</color>
+    <color name="PC_blanco3">#99F8F8F8</color>
+    <color name="PC_blanco4">#CCF8F8F8</color>
+    <color name="PC_blanco5">#F8F8F8</color>
+    <color name="PC_morado_txtvw">#9A11EF</color>
+    <color name="Violeta35">#666A11E7</color>
+
+    <!--SuperheroApp-->
+    <color name="superhero_stat_intelligence">#00ff00</color>
+    <color name="superhero_stat_strength">#FF0000</color>
+    <color name="superhero_stat_speed">#E88B00</color>
+    <color name="superhero_stat_durability">#03A9F4</color>
+    <color name="superhero_stat_power">#FFEB3B</color>
+    <color name="superhero_stat_combat">#673AB7</color>
+</resources>
